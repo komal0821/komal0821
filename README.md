@@ -1,6 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Komal Priya</h1>
 <h3 align="center">A passionate full stack developer</h3>
+
+<img align = "right" width="350" src="![laptop-1](https://user-images.githubusercontent.com/93815003/229834935-f4f70e44-0950-4b66-a6ec-2c1ee7bd0417.gif)">
 
 - 🌱 I’m currently learning **Go Lang**
 
