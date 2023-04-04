@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Komal Priya</h1>
-<h3 align="center">A passionate full stack developer</h3>![Black and Yellow Simple Minimalist Burger Promotion Banner](https://user-images.githubusercontent.com/93815003/229835971-70ca129e-5ad2-46ab-983b-974491084019.png)
+![Black and Yellow Simple Minimalist Burger Promotion Banner](https://user-images.githubusercontent.com/93815003/229835971-70ca129e-5ad2-46ab-983b-974491084019.png)
 
+
+<h1 align="center">Hi 👋, I'm Komal Priya</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Go Lang**
 
