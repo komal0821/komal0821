@@ -1,4 +1,4 @@
-![Black and Yellow Simple Minimalist Burger Promotion Banner](https://user-images.githubusercontent.com/93815003/229832017-2913488b-cfd9-4678-b0c2-5b0e9b521eca.png)
+
 <h1 align="center">Hi 👋, I'm Komal Priya</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
