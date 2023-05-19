@@ -1,5 +1,5 @@
 ![KOMAL PRIYA](https://github.com/komal0821/komal0821/assets/93815003/183e2b62-4611-4f69-a93b-041ffc5a6a9b)
-![Black and Yellow Simple Minimalist Burger Promotion Banner](https://user-images.githubusercontent.com/93815003/229835971-70ca129e-5ad2-46ab-983b-974491084019.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Komal Priya</h1>
