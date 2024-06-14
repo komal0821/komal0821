@@ -1,4 +1,3 @@
-![KOMAL PRIYA](https://github.com/komal0821/komal0821/assets/93815003/183e2b62-4611-4f69-a93b-041ffc5a6a9b)
 
 
 
